@@ -51,10 +51,10 @@
     .cover img{
         height: 27vh;
     }
-    .next-png{
+     .next-png{
         position: absolute;
-        right: 8rem;
-        bottom: 8rem;
+        right: 10rem;
+        bottom: 3rem;
         
     }
 

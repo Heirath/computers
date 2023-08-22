@@ -39,7 +39,9 @@
     }
     .next-png{
         position: absolute;
-        right: 10rem;
+        right: 15rem;
+         
+        bottom: 8rem;
         
     }
 

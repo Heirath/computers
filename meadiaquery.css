@@ -37,7 +37,25 @@
     nav{
         display: none;
     }
+    .next-png{
+        position: absolute;
+        right: 10rem;
+        
+    }
+
 
 
 
 }
+@media screen and (max-width: 600px){
+    .cover img{
+        height: 27vh;
+    }
+    .next-png{
+        position: absolute;
+        right: 8rem;
+        bottom: 8rem;
+        
+    }
+
+} 
